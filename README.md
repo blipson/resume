@@ -24,7 +24,7 @@
 - Lauded for my high availability, transparency, fast response time, and efficient resolution of issues.
 
 ## Experience
-### Senior Software Engineer | Target | April 2019 - Present
+### Lead Software Engineer | Target | April 2019 - Present
 - Contributed heavily to the large-scale overhaul of the architecture of the promotion management systems.
 - Led the effort to migrate the promotion management systems off legacy technologies and systems (AngularJS, Apache Storm, and ONgDB) to modern technologies that fit the use case better (React, Micronaut, and PostgreSQL).
 - Contributed development skills towards many high revenue projects including circle offer set up, promotion authoring, price-based offer publishing, basket offer publishing, and marketing pyramids.
