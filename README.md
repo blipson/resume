@@ -2,19 +2,23 @@
 1854 Prior Ave N, Falcon Heights, MN, 55113 | (303)-947-4183 | ben.j.lipson@gmail.com
 
 ## Objective
--	To expand the breadth and depth of my technical and interpersonal knowledge by securing a position with frequent new challenges and strong, team-oriented development practices.
+- To expand the breadth and depth of my technical and interpersonal knowledge by securing a position with frequent new challenges and strong, team-oriented development practices.
 
 ## Education
+### Master of Science | In Progress | University of Minnesota Twin Cities
+- Progarm: Computer Science
+- Related coursework: Fundamentals of Computer Graphics, Artificial Intelligence I, Introduction to Compilers.
+
 ### Bachelor of Arts | Class of 2015 | St. Olaf College
 - Major: Computer Science
 - Related coursework: Intro to CS, Hardware Design, Software Design, Android Programming, Operating Systems, Programming Languages, Higher Performance CoIntegrated Computing (HiPerCiC), Discrete Mathematics, Logic Programming, Mobile Web Graphics, Algorithms & Data Structures, CS In Parallel, Senior Capstone Project.
 
 ## Skills & Abilities
 ### Programming Languages
-- Java, Kotlin, Scala, Python, ECMAScript (JavaScript), TypeScript, HTML/CSS, Bash, SQL, C#, C, C++, Visual Basic, Assembly Code, Prolog, Ruby, Clojure, F#, Scheme, Powershell, Haskell
+- C, C++, Rust, Java, Kotlin, Scala, Python, ECMAScript (JavaScript), TypeScript, HTML/CSS, Bash, SQL, C#, Visual Basic, Assembly Code, Prolog, Ruby, Clojure, F#, Scheme, Powershell, Haskell
 
 ### Tools & Frameworks
-- Micronaut, Spring, DropWizard, Ktor, ElasticSearch, Kafka, Play, Django, Flask, Pyramid, React, Angular, Node, ExpressJS, MongoDB, WebGL, Material UI, Bootstrap CSS, PostgreSQL, Oracle, SQL Server, .NET Core, .NET MVC, .NET WebForms, Classic ASP.NET, OpenMP, OpenMPI, CUDA, OpenGL.
+- OpenGL, CUDA, WebGL, Rocket, Micronaut, Spring, DropWizard, Ktor, ElasticSearch, Kafka, Redis, Play, Django, Flask, Pyramid, React, Angular, Vue, Node, MongoDB, PostgreSQL, Neo4j, Oracle, SQL Server, .NET Core, .NET MVC, .NET WebForms, Classic ASP.NET, OpenMP, OpenMPI.
 
 ### Collaboration & Leadership
 - Personally mentored 5 interns, all of whom got return offers.
@@ -27,7 +31,7 @@
 ### Lead Software Engineer | Target | April 2019 - Present
 - Contributed heavily to the large-scale overhaul of the architecture of the promotion management systems.
 - Led the effort to migrate the promotion management systems off legacy technologies and systems (AngularJS, Apache Storm, and ONgDB) to modern technologies that fit the use case better (React, Micronaut, and PostgreSQL).
-- Contributed development skills towards many high revenue projects including circle offer set up, promotion authoring, price-based offer publishing, basket offer publishing, and marketing pyramids.
+- Contributed development skills towards many high revenue projects including circle offer set up, promotion authoring, price-based offer publishing, basket offer publishing, mixed discounts, and marketing pyramids.
 - Created a system for reporting on promotions and exporting them to excel on an item/location level.
 - Supported systems to scale under immense load as Target processed millions of dollars’ worth of revenue in sales per hour.
 - Maintained and supported APIs used across the enterprise.
