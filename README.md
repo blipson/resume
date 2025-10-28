@@ -18,7 +18,7 @@
 - C, C++, Rust, Java, Kotlin, Scala, Python, ECMAScript (JavaScript), TypeScript, HTML/CSS, Bash, SQL, C#, Visual Basic, Assembly Code, Prolog, Ruby, Clojure, F#, Scheme, Powershell, Haskell
 
 ### Tools & Frameworks
-- OpenGL, CUDA, WebGL, Rocket, Micronaut, Spring, DropWizard, Ktor, ElasticSearch, Kafka, Redis, Play, Django, Flask, Pyramid, React, Angular, Vue, Node, MongoDB, PostgreSQL, Neo4j, Oracle, SQL Server, .NET Core, .NET MVC, .NET WebForms, Classic ASP.NET, OpenMP, OpenMPI.
+- OpenGL, WebGL, Rocket, Micronaut, Spring, DropWizard, Ktor, ElasticSearch, Kafka, Redis, Play, Django, Flask, Pyramid, React, Angular, Vue, Node, MongoDB, PostgreSQL, Neo4j, Oracle, SQL Server, .NET Core, .NET MVC, .NET WebForms, Classic ASP.NET.
 
 ### Collaboration & Leadership
 - Personally mentored 5 interns, all of whom got return offers.
@@ -29,6 +29,8 @@
 
 ## Experience
 ### Lead Software Engineer | Target | April 2019 - Present
+- Created high volume, low latency, fault tolerant, scalable systems to measure item lead times across Target's supply chain. 
+- Upgraded and improved systems for estimating item lead times across Target's supply chain.
 - Contributed heavily to the large-scale overhaul of the architecture of the promotion management systems.
 - Led the effort to migrate the promotion management systems off legacy technologies and systems (AngularJS, Apache Storm, and ONgDB) to modern technologies that fit the use case better (React, Micronaut, and PostgreSQL).
 - Contributed development skills towards many high revenue projects including circle offer set up, promotion authoring, price-based offer publishing, basket offer publishing, mixed discounts, and marketing pyramids.
